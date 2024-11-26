@@ -11,7 +11,7 @@ import java.util.concurrent.ConcurrentLinkedDeque;
 /**
  * Component of the Chess game that detects check mates in the game.
  *
- * @author Jussi Lundstedt
+ * @author Dor darmon
  */
 public class CheckmateDetector {
     private Board b;
