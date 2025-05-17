@@ -14,7 +14,7 @@ This project is a classic Chess game implemented in Java using Swing for the gra
 ## Project Structure
 
 ```
-chees/
+chess/
 ├── src/
 │   ├── Bishop.java
 │   ├── Board.java
@@ -33,7 +33,7 @@ chees/
 │   ├── bp.png, wp.png, wb.png (piece images)
 ├── resors/
 ├── out/
-├── chees.iml
+├── chess.iml
 ```
 
 ## How to Run
